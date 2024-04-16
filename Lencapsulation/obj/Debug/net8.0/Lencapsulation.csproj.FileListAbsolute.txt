@@ -1,0 +1,15 @@
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\bin\Debug\net8.0\Lencapsulation.exe
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\bin\Debug\net8.0\Lencapsulation.deps.json
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\bin\Debug\net8.0\Lencapsulation.runtimeconfig.json
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\bin\Debug\net8.0\Lencapsulation.dll
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\bin\Debug\net8.0\Lencapsulation.pdb
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\obj\Debug\net8.0\Lencapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\obj\Debug\net8.0\Lencapsulation.AssemblyInfoInputs.cache
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\obj\Debug\net8.0\Lencapsulation.AssemblyInfo.cs
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\obj\Debug\net8.0\Lencapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\obj\Debug\net8.0\Lencapsulation.sourcelink.json
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\obj\Debug\net8.0\Lencapsulation.dll
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\obj\Debug\net8.0\refint\Lencapsulation.dll
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\obj\Debug\net8.0\Lencapsulation.pdb
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\obj\Debug\net8.0\Lencapsulation.genruntimeconfig.cache
+C:\Users\Siwar\formation\QuetesC#\Lencapsulation\Lencapsulation\obj\Debug\net8.0\ref\Lencapsulation.dll

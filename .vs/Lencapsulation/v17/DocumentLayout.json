@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Siwar\\formation\\QuetesC#\\Lencapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D00610-2E5B-4626-B4B3-5941C6A96968}|Lencapsulation\\Lencapsulation.csproj|C:\\Users\\Siwar\\formation\\QuetesC#\\Lencapsulation\\lencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D00610-2E5B-4626-B4B3-5941C6A96968}|Lencapsulation\\Lencapsulation.csproj|solutionrelative:lencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D00610-2E5B-4626-B4B3-5941C6A96968}|Lencapsulation\\Lencapsulation.csproj|c:\\users\\siwar\\formation\\quetesc#\\lencapsulation\\lencapsulation\\beerencapsulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D00610-2E5B-4626-B4B3-5941C6A96968}|Lencapsulation\\Lencapsulation.csproj|solutionrelative:lencapsulation\\beerencapsulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Beerencapsulator.cs",
+              "DocumentMoniker": "C:\\Users\\Siwar\\formation\\QuetesC#\\Lencapsulation\\Lencapsulation\\Beerencapsulator.cs",
+              "RelativeDocumentMoniker": "Lencapsulation\\Beerencapsulator.cs",
+              "ToolTip": "C:\\Users\\Siwar\\formation\\QuetesC#\\Lencapsulation\\Lencapsulation\\Beerencapsulator.cs",
+              "RelativeToolTip": "Lencapsulation\\Beerencapsulator.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAowEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:16:03.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Siwar\\formation\\QuetesC#\\Lencapsulation\\Lencapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Lencapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Siwar\\formation\\QuetesC#\\Lencapsulation\\Lencapsulation\\Program.cs",
+              "RelativeToolTip": "Lencapsulation\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:15:09.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
